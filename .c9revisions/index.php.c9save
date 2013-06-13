@@ -1,0 +1,8 @@
+{"ts":1371112391750,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1371112546227,"patch":[[{"diffs":[[1,"<?php\n?"]],"start1":0,"start2":0,"length1":0,"length2":7}]],"length":7,"saved":false}
+{"ts":1371112547476,"patch":[[{"diffs":[[0,"<?php\n?"],[1,">"]],"start1":0,"start2":0,"length1":7,"length2":8}]],"length":8,"saved":false}
+{"ts":1371112551566,"patch":[[{"diffs":[[0,"<?php\n"],[1,"\n"],[0,"?>"]],"start1":0,"start2":0,"length1":8,"length2":9}]],"length":9,"saved":false}
+{"ts":1371112552652,"patch":[[{"diffs":[[0,"<?php\n"],[1,"echo"],[0,"\n?>"]],"start1":0,"start2":0,"length1":9,"length2":13}]],"length":13,"saved":false}
+{"ts":1371112556603,"patch":[[{"diffs":[[0,"php\necho"],[1," \"hello wol\""],[0,"\n?>"]],"start1":2,"start2":2,"length1":11,"length2":23}]],"length":25,"saved":false}
+{"ts":1371112558165,"patch":[[{"diffs":[[0,"hello wo"],[-1,"l"],[1,"rld"],[0,"\"\n?>"]],"start1":12,"start2":12,"length1":13,"length2":15}]],"length":27,"saved":false}
+{"ts":1371112559457,"patch":[[{"diffs":[[0,"o world\""],[1,";"],[0,"\n?>"]],"start1":16,"start2":16,"length1":11,"length2":12}]],"length":28,"saved":false}
